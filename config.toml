@@ -1,4 +1,4 @@
-baseURL = "http://example.org/"
+baseURL = "https://manojkvel.github.io/dccbtg/"
 languageCode = "en-us"
 title = "Restaurant Theme By Themefisher"
 theme="restaurant-hugo"
