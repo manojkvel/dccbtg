@@ -1,0 +1,15 @@
+[submodule "thrms/restaurant-hugo"]
+	path = thrms/restaurant-hugo
+	url = https://github.com/themefisher/restaurant-hugo.git
+[submodule "themes/restaurant-hugo"]
+	path = themes/restaurant-hugo
+	url = https://github.com/themefisher/restaurant-hugo.git
+[submodule "themes/devfest-theme-hugo"]
+	path = themes/devfest-theme-hugo
+	url = https://github.com/GDGToulouse/devfest-theme-hugo.git
+[submodule "themes/ananke"]
+	path = themes/ananke
+	url = https://github.com/budparr/gohugo-theme-ananke.git
+[submodule "hugo-gallery"]
+	path = hugo-gallery
+	url = https://github.com/icecreammatt/hugo-gallery.git
