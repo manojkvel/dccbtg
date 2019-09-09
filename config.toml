@@ -1,6 +1,7 @@
 baseURL = "https://manojkvel.github.io/dccbtg/"
 languageCode = "en-us"
 title = "Restaurant Theme By Themefisher"
+themesDir="themes"
 theme="restaurant-hugo"
 summaryLength = "7"
 publishDir="docs"
