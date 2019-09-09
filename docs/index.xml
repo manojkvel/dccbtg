@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>HomePage on Restaurant Theme By Themefisher</title>
+    <link>http://example.org/</link>
+    <description>Recent content in HomePage on Restaurant Theme By Themefisher</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 09 Sep 2019 20:56:21 +0530</lastBuildDate>
+    
+	<atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Scottish Lavender Rickey</title>
+      <link>http://example.org/scottish-lavender-rickey/</link>
+      <pubDate>Wed, 26 Dec 2018 12:30:01 +0600</pubDate>
+      
+      <guid>http://example.org/scottish-lavender-rickey/</guid>
+      <description>Jessie Marrero is bringing the light, clean and refreshing taste of the Scottish country air to DC with her ‘Scottish Lavender Rickey’!</description>
+    </item>
+    
+    <item>
+      <title>Sleeping with Roses</title>
+      <link>http://example.org/sleeping-with-roses/</link>
+      <pubDate>Wed, 26 Dec 2018 12:28:47 +0600</pubDate>
+      
+      <guid>http://example.org/sleeping-with-roses/</guid>
+      <description>You’ll love ‘Sleeping with Roses’ this summer! Tennessee native Kendra Copeland rinses the glass with one of her favorite ingredients, rose water, and a bit of Scrappy’s Cardamom bitters.</description>
+    </item>
+    
+    <item>
+      <title>Golden Milk</title>
+      <link>http://example.org/golden-milk/</link>
+      <pubDate>Wed, 26 Dec 2018 12:23:10 +0600</pubDate>
+      
+      <guid>http://example.org/golden-milk/</guid>
+      <description>Golden Milk is a northern-Indian health beverage commonly made with turmeric, black pepper, honey and milk or coconut milk.</description>
+    </item>
+    
+    <item>
+      <title>Voodoo Lady</title>
+      <link>http://example.org/voodoo-lady/</link>
+      <pubDate>Wed, 26 Dec 2018 11:40:41 +0600</pubDate>
+      
+      <guid>http://example.org/voodoo-lady/</guid>
+      <description>Sophie Szych loved Goya Guava Soda as a kid in Massachusetts, and has found a way to spin it into an adult-soda!</description>
+    </item>
+    
+    <item>
+      <title>Ultraviolet Rickey</title>
+      <link>http://example.org/ultraviolet-rickey/</link>
+      <pubDate>Wed, 12 Dec 2018 04:28:21 +0600</pubDate>
+      
+      <guid>http://example.org/ultraviolet-rickey/</guid>
+      <description>Alexander Leidy infused a Meletti Anisette Secco with Blueberry &amp;amp; Lavender, enhancing the floral and citrus components of Green Hat Gin and composing a delightful ‘Ultraviolet Rickey’ with a bit of Lemon, Rosemary and Soda.</description>
+    </item>
+    
+  </channel>
+</rss>
